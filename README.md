@@ -1,4 +1,5 @@
 Chat Application
+
 The Chat Application is a real-time messaging platform that allows users to engage in instant communication. Built using the MERN (MongoDB, Express.js, React.js, and Node.js) stack for the frontend and backend, this application provides users with a seamless and interactive chatting experience.
 
 Features
